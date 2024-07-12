@@ -1,3 +1,6 @@
+展示会まるごとサポート（一向社サイト展示会ページ）
+https://ikkosha.co.jp/service/exhibition_support/
+
 Github Pages　(wpdemo_iksite)
 https://kojobiz.github.io/wpdemo_iksite
 
