@@ -1,0 +1,12 @@
+Github Pages　(wpdemo_iksite)
+https://kojobiz.github.io/wpdemo_iksite
+
+Github (wpdemo_iksite)
+https://github.com/kojobiz/wpdemo_iksite
+
+Figjam
+https://www.figma.com/board/PQyDcJFg7ZwEBzOR6DOz5W/%E5%B0%8F%E5%9F%8E_%E4%B8%80%E5%90%91%E7%A4%BELP_0710-0715?node-id=0-1&t=aXvucjxGHgrTfLxI-0
+
+元コードFTPでphpやhtml実験など含む
+(z_ik)
+https://github.com/kojobiz/z_ik
